@@ -9,6 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #4C5866;
     background-color: rgb(209, 211, 214) !important;
+    box-sizing:border-box;
 }
 
 h1, h2, h3 {
@@ -40,6 +41,7 @@ header {
 	top: 0;
 	left: 0;
 	right: 0;
+	box-sizing:border-box;
 }
 
 .logo a {
